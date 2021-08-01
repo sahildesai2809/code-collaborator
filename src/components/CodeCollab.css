@@ -1,0 +1,18 @@
+.container {
+  padding: 16px;
+  display: flex;
+}
+
+.text {
+  padding: 12px;
+  margin: 12px;
+  border: 0.6px solid #2424;
+  text-align: center;
+}
+
+.editor {
+  flex-direction: column;
+  margin-left: 80px;
+  padding: 12px;
+  border: 0.4px solid #2424;
+}
