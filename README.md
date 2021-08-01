@@ -1,7 +1,9 @@
 # Code collaborator
 
-### > Demo
+> Demo
 
+** You can edit any code live with any friend of yours, this is a very basic version of a code collaborator
+more features such as language choice, number of active collaborators, theme selection etc **
 
 https://user-images.githubusercontent.com/71452591/127761789-7402d395-d45e-43fb-8809-12c534389b61.mp4
 
